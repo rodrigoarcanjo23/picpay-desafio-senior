@@ -18,7 +18,7 @@ Projeto elaborado para solucionar [esse desafio](https://github.com/PicPay/picpa
 
 - Clonar repositório git:
 ```
-git clone https://github.com/giuliana-bezerra/picpay-desafio-backend.git
+git clone https://github.com/rodrigoarcanjo23/picpay-desafio-senior.git
 ```
 - Executar o Kafka:
 ```
