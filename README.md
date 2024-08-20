@@ -29,7 +29,7 @@ docker-compose up
 
 ## Arquitetura
 
-![Desenho de Arquitetura](.github/Desenho%20de%20Arquitetura.png)
+![Desenho de Arquitetura]([.github/Desenho%20de%20Arquitetura.png](https://github.com/user-attachments/assets/66bba491-ac5b-4651-8a1e-9fcb5d88ecf0))
 
 ![Diagrama de Atividades](.github/Diagrama%20de%20Atividades.png)
 
